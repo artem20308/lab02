@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Program greeting user
+// Program greeting the user.
 
 int main()
 {
