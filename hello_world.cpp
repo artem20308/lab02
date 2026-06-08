@@ -1,15 +1,18 @@
 #include <iostream>
 
 using namespace std;
+
 // Program greeting the user.
 int main()
+int
+main()
 {
-string name;
+  string name;
 
-cout<<"Enter your name: ";
-cin>>name;
+  cout << "Enter your name: ";
+  cin >> name;
 
-cout<<"Hello world from "<<name<<endl;
+  cout << "Hello world from " << name << endl;
 
-return 0;
+  return 0;
 }
