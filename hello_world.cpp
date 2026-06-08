@@ -1,15 +1,14 @@
 #include <iostream>
-
-using namespace std;
+#include <string>
 
 int main()
 {
-string name;
+    std::string name;
 
-cout<<"Enter your name: ";
-cin>>name;
+    std::cout << "Enter your name: ";
+    std::cin >> name;
 
-cout<<"Hello world from "<<name<<endl;
+    std::cout << "Hello world from " << name << std::endl;
 
-return 0;
+    return 0;
 }
