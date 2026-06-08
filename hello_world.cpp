@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// Program greeting the user.
 int main()
 {
 string name;
